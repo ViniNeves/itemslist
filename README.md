@@ -1,6 +1,6 @@
 # Teste (Front end)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+Teste de Vinícius Martins para front end.
 
 ## Development server
 
